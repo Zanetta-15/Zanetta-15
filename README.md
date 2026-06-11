@@ -1,63 +1,15 @@
 # Hi, I'm Zanetta 👋
 
-
-
 💻 Software Developer
 
-
-
-Currently exploring web and mobile development, and building projects that solve real-world problems.
-
-
+I enjoy building web and mobile applications.
 
 ## Tech Stack
-
-
-
-* Python
-
-* Java
-
-* JavaScript
-
-* React
-
-* Kotlin
-
-* SQL
-
-
+Python • Java • JavaScript • React • Kotlin • SQL
 
 ## Projects
-
-
-
-### BudgetBuddy
-
-
-
-Android budgeting app built with Kotlin, Jetpack Compose, and Room Database.
-
-
-
-## Currently Learning
-
-
-
-* Full-stack development
-
-* Mobile app development
-
-* Software engineering best practices
-
-
+**BudgetBuddy** – Android budgeting app built with Kotlin and Jetpack Compose.
 
 ## Connect
-
-
-
-📧 [zanettacrentsil1@gmail.com](mailto:zanettacrentsil1@gmail.com)
-
-
-
-💼 LinkedIn: linkedin.com/in/zanetta-crentsil
+📧 zanettacrentsil1@gmail.com  
+💼 linkedin.com/in/zanetta-crentsil
